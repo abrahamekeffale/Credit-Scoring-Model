@@ -66,19 +66,20 @@ After installing the required packages, you can run the following script to exec
 python main.py
 
 ## Features
-Data Preprocessing: Handles missing values, encodes categorical variables, and splits the dataset.
-Model Training: Implements machine learning algorithms to classify risk.
-Model Evaluation: Evaluates model performance using appropriate metrics.
-Visualization: Provides visualizations of risk categories and transaction trends.
-Modeling
+- **Data Preprocessing**: Handles missing values, encodes categorical variables, and splits the dataset.
+- **Model Training**: Implements machine learning algorithms to classify risk.
+- **Model Evaluation**: Evaluates model performance using appropriate metrics.
+- **Visualization**: Provides visualizations of risk categories and transaction trends.
+
+## Modeling
 This project employs various machine learning techniques, including:
+- **Logistic Regression**
+- **Decision Trees**
+- **Random Forest**
+- **Gradient Boosting**
 
-Logistic Regression
-Decision Trees
-Random Forest
-Gradient Boosting
-Visualization
-Visualizations are created using Matplotlib and Seaborn to illustrate the distribution of risk categories and other insights from the dataset.
+## Visualization
+Visualizations are created using **Matplotlib** and **Seaborn** to illustrate the distribution of risk categories and other insights from the dataset.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
