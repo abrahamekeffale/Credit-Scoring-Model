@@ -62,7 +62,7 @@ To get started with this project, follow these steps:
 ## Usage
 After installing the required packages, you can run the following script to execute the model:
 
-```bash
+bash
   python main.py
 
 ## Features
