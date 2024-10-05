@@ -63,7 +63,7 @@ To get started with this project, follow these steps:
 After installing the required packages, you can run the following script to execute the model:
 
 ```bash
-python main.py
+  python main.py
 
 ## Features
 - **Data Preprocessing**: Handles missing values, encodes categorical variables, and splits the dataset.
